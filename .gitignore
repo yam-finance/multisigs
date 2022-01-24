@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+/package
+.vscode
+.idea
+.env
+build
+yarn-error.log

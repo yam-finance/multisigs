@@ -1,5 +1,7 @@
 Multisig Address [0xFF3B0A88054f08B91E0c89eEc9a38817501F599A](https://gnosis-safe.io/app/eth:0xFF3B0A88054f08B91E0c89eEc9a38817501F599A)
 
+Threshold 3/8
+
 | Contributor | Address                                    |
 | ----------- | ------------------------------------------ |
 | E           | 0x8A8acf1cEcC4ed6Fe9c408449164CE2034AdC03f |

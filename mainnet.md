@@ -1,5 +1,7 @@
 Multisig Address [0x744D16d200175d20E6D8e5f405AEfB4EB7A962d1](https://gnosis-safe.io/app/eth:0x744D16d200175d20E6D8e5f405AEfB4EB7A962d1)
 
+Threshold 2/4
+
 | Contributor | Address                                    |
 | ----------- | ------------------------------------------ |
 | E           | 0x8A8acf1cEcC4ed6Fe9c408449164CE2034AdC03f |
