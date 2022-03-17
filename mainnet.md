@@ -5,6 +5,6 @@ Threshold 2/4
 | Contributor | Address                                    |
 | ----------- | ------------------------------------------ |
 | E           | 0x8A8acf1cEcC4ed6Fe9c408449164CE2034AdC03f |
-| Nate        | 0xEC3281124d4c2FCA8A88e3076C1E7749CfEcb7F2 |
+| Feddas      | 0xbdac5657eDd13F47C3DD924eAa36Cf1Ec49672cc |
 | Hodl        | 0x46499275b5c4d67dfa46B92D89aADA3158ea392e |
 | Ross        | 0x88c868B1024ECAefDc648eb152e91C57DeA984d0 |
